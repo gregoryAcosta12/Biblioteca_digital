@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaDigital.Data", "BibliotecaDigital.Data\BibliotecaDigital.Data.csproj", "{57CFA6E7-0CC2-4DD4-8D8B-B66978C7D1FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca.Web", "Biblioteca.Web\Biblioteca.Web.csproj", "{FA4EDDFD-CB22-4105-8D93-B01706F0746E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{57CFA6E7-0CC2-4DD4-8D8B-B66978C7D1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57CFA6E7-0CC2-4DD4-8D8B-B66978C7D1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57CFA6E7-0CC2-4DD4-8D8B-B66978C7D1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA4EDDFD-CB22-4105-8D93-B01706F0746E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4EDDFD-CB22-4105-8D93-B01706F0746E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4EDDFD-CB22-4105-8D93-B01706F0746E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4EDDFD-CB22-4105-8D93-B01706F0746E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
