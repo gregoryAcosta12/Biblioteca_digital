@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\costa\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\titod\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\costa\\Music\\bibloteca\\BibliotecaDigital\\BibliotecaDigital.Data\\BibliotecaDigital.Data.csproj",
+      "projectUniqueName": "C:\\scripts\\BibliotecaDigitial\\BibliotecaDigital\\BibliotecaDigital.Data\\BibliotecaDigital.Data.csproj",
       "projectName": "BibliotecaDigital.Data",
-      "projectPath": "C:\\Users\\costa\\Music\\bibloteca\\BibliotecaDigital\\BibliotecaDigital.Data\\BibliotecaDigital.Data.csproj",
-      "packagesPath": "C:\\Users\\costa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\costa\\Music\\bibloteca\\BibliotecaDigital\\BibliotecaDigital.Data\\obj\\",
+      "projectPath": "C:\\scripts\\BibliotecaDigitial\\BibliotecaDigital\\BibliotecaDigital.Data\\BibliotecaDigital.Data.csproj",
+      "packagesPath": "C:\\Users\\titod\\.nuget\\packages\\",
+      "outputPath": "C:\\scripts\\BibliotecaDigitial\\BibliotecaDigital\\BibliotecaDigital.Data\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\titod\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

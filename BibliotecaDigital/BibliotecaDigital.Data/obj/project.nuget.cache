@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QVtvhzHVQY4pS0sPEgsXv3JpahWSo4hua0rzh6I5vH+YPXhNxrXWjUMYlmP4HkyvBq5aY8IYO1SM0svXcqif6w==",
+  "dgSpecHash": "XGBLmZTZjCKNjCab5u0td1dm/Gm4Q5n3XnEQbe9cc5eMu3BlCeSfaw9Y/YxxtlyEdFHBFtbSaMeM6FZWF1kpmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\costa\\Music\\bibloteca\\BibliotecaDigital\\BibliotecaDigital.Data\\BibliotecaDigital.Data.csproj",
+  "projectFilePath": "C:\\scripts\\BibliotecaDigitial\\BibliotecaDigital\\BibliotecaDigital.Data\\BibliotecaDigital.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
